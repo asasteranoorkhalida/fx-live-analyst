@@ -1,0 +1,27 @@
+{
+  "name": "FX Live Analyst — Forex Signals & Chart Patterns",
+  "short_name": "FX Analyst",
+  "description": "Live forex charts with zoom, multi-timeframe BUY/SELL advice, entries, stop losses and take-profit targets based on classic chart-pattern rules (Fidelity PDF methodology).",
+  "id": "fx-live-analyst",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#131722",
+  "theme_color": "#131722",
+  "categories": ["finance", "business", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
